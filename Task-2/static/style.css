@@ -77,9 +77,9 @@ body{
 .my-cta-button
 {
 	background: #f9f9f9;
-   	border: 100px solid #000000;
+   	border: 2px solid #000000;
     border-radius: 1000px;
-    box-shadow: 3px 3px #020a7c;
+    box-shadow: 3px 3px #8c8c8c;
 	margin-top: 10px;
     padding: 10px 36px;
     color: #000000;
